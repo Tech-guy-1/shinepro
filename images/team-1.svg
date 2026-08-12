@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <rect width="100%" height="100%" fill="#EAF5FC"/>
+  <rect x="6" y="6" width="488" height="488" fill="none" stroke="#8FC3E6" stroke-width="2" rx="6"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="50%" y="48%" font-size="22" fill="#1B6E9C" font-weight="700">IMAGE</text>
+    <text x="50%" y="58%" font-size="14" fill="#4A5A66">Team member photo</text>
+  </g>
+</svg>
