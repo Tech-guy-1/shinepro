@@ -66,21 +66,20 @@ for a different preview image, keeping the same filename.
   GitHub Pages) will show it automatically for broken links once
   configured; check your host's 404 setup if it doesn't appear.
 
-## Cookies & analytics
+## Analytics
 
-A cookie consent banner appears on first visit (bottom of the screen) and
-remembers the visitor's choice in their browser. Analytics only loads
-after someone clicks **Accept** — nothing is loaded before that, and
-nothing loads at all if they click Decline.
-
-To turn on Google Analytics: open `js/script.js` and replace
+There's no cookie banner on the site — it was removed by request. Google
+Analytics is wired up but loads directly, with no consent step in front
+of it. To turn it on: open `js/script.js` and replace
 `GA_MEASUREMENT_ID = "G-XXXXXXXXXX"` near the top with your real GA4
 Measurement ID. Until you do that, the analytics loader simply does
 nothing, so it's safe to leave as-is.
 
+If you later want cookie consent back (some regions require it before
+loading analytics), let me know and I can re-add a banner.
+
 ## Accessibility
 
-- A "Skip to main content" link appears when tabbing in with a keyboard.
 - All decorative icons are hidden from screen readers so only meaningful
   text and labelled buttons/links are announced.
 - Every photo has descriptive alt text; icons paired with visible text
