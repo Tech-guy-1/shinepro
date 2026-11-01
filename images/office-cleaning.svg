@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+<title id="title">Shine Pro office cleaning team</title><desc id="desc">A wide portrait office scene showing a Shine Pro team cleaning a professional workplace.</desc>
+<defs>
+ <linearGradient id="wall" x2="0" y2="1"><stop stop-color="#F3F8FC"/><stop offset="1" stop-color="#EAF2F7"/></linearGradient>
+ <linearGradient id="uniform" x2="0" y2="1"><stop stop-color="#204A77"/><stop offset="1" stop-color="#0A2442"/></linearGradient>
+ <pattern id="tiles" width="100" height="70" patternUnits="userSpaceOnUse"><path d="M0 0H100M0 0V70" stroke="#7895A9" stroke-width="2" opacity=".35" fill="none"/></pattern>
+ <g id="workerM">
+  <ellipse cy="18" rx="31" ry="37" fill="#966044"/><path d="M-30 4Q-28 -31 4 -32Q31 -28 30 5L20 -2Q0 -15 -20 3Z" fill="#17212E"/>
+  <path d="M-37 70Q-30 62 -12 65H15Q35 68 40 100L33 205H-35Z" fill="url(#uniform)"/>
+  <path d="M-25 195L-32 320L-48 395M24 195L34 320L52 395" stroke="#172B45" stroke-width="28" fill="none" stroke-linecap="round"/>
+  <path d="M-65 398H-20L-15 414H-72ZM35 398H78L84 414H34Z" fill="#111D2C"/>
+  <path d="M-30 95Q-55 135 -70 175M34 95Q60 135 72 175" stroke="#966044" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <path d="M-80 168Q-65 155 -52 168L-48 185Q-65 198 -81 184M62 168Q76 155 88 168L90 185Q75 198 60 184" fill="#0878D1"/>
+  <text x="0" y="145" font-family="Arial" font-size="20" font-weight="900" text-anchor="middle" fill="#27A9F4">SP</text>
+ </g>
+ <g id="workerW">
+  <ellipse cy="18" rx="31" ry="37" fill="#986347"/><path d="M-33 5Q-34 -35 2 -36Q37 -30 31 12L22 2Q10 -18 -10 -13Q-23 -8 -27 10Z" fill="#211C27"/>
+  <circle cx="0" cy="-30" r="13" fill="#211C27"/>
+  <path d="M-37 70Q-30 62 -12 65H15Q35 68 40 100L33 205H-35Z" fill="url(#uniform)"/>
+  <path d="M-25 195L-32 320L-48 395M24 195L34 320L52 395" stroke="#172B45" stroke-width="28" fill="none" stroke-linecap="round"/>
+  <path d="M-65 398H-20L-15 414H-72ZM35 398H78L84 414H34Z" fill="#111D2C"/>
+  <path d="M-30 95Q-55 135 -70 175M34 95Q60 135 72 175" stroke="#986347" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <path d="M-80 168Q-65 155 -52 168L-48 185Q-65 198 -81 184M62 168Q76 155 88 168L90 185Q75 198 60 184" fill="#0878D1"/>
+  <text x="0" y="145" font-family="Arial" font-size="20" font-weight="900" text-anchor="middle" fill="#27A9F4">SP</text>
+ </g>
+</defs>
+<rect width="800" height="1000" fill="url(#wall)"/>
+
+        <rect x="55" y="490" width="690" height="160" rx="12" fill="#D7E4EC"/>
+        <rect x="75" y="465" width="280" height="180" rx="22" fill="#9FB8C9"/>
+        <rect x="95" y="480" width="240" height="145" rx="18" fill="#E0EAF0"/>
+        <rect x="490" y="510" width="210" height="20" rx="5" fill="#765A45"/>
+        <path d="M510 530V665M680 530V665" stroke="#765A45" stroke-width="12"/>
+        <rect x="525" y="440" width="130" height="70" rx="6" fill="#26394F"/>
+        <rect x="535" y="450" width="110" height="50" fill="#9CCCE5"/>
+        
+<path d="M90 120L220 120L140 390H90Z" fill="#fff" opacity=".25"/>
+<path d="M0 690H800V1000H0Z" fill="#C7D7E2"/><path d="M0 690H800V1000H0Z" fill="url(#tiles)" opacity=".45"/>
+
+        <g transform="translate(220 310) scale(.78)"><use href="#workerW"/></g>
+        <g transform="translate(510 315) scale(.82)"><use href="#workerM"/></g>
+        <g transform="translate(680 350) scale(.60)"><use href="#workerW"/></g>
+        
+<g transform="translate(75 735)"><rect width="120" height="110" rx="14" fill="#0878D1"/><rect x="15" y="-14" width="90" height="22" rx="8" fill="#0B4F87"/><path d="M28 35H92M28 55H92" stroke="#DDF3FF" stroke-width="7" stroke-linecap="round"/></g>
+<g transform="translate(640 45)"><text x="0" y="65" font-family="Arial,sans-serif" font-size="76" font-weight="900" font-style="italic" letter-spacing="-8" fill="#0878D1">SP</text><path d="M75 4L81 -14L87 4L105 10L87 16L81 34L75 16L57 10Z" fill="#0878D1"/><path d="M112 -20L116 -32L120 -20L132 -16L120 -12L116 0L112 -12L100 -16Z" fill="#0878D1"/></g>
+</svg>
